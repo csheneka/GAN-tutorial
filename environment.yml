@@ -1,0 +1,12 @@
+name: tutorial-env
+channels:
+    - conda-forge
+dependencies:
+    - python>3
+    - numpy
+    - matplotlib
+    - scipy
+    - astropy
+    - tensorflow
+    - requests
+    - scikit-learn
