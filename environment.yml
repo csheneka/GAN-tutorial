@@ -1,8 +1,9 @@
 name: tutorial-env
 channels:
     - conda-forge
+    - conda
 dependencies:
-    - python>3
+    - python
     - numpy
     - matplotlib
     - scipy
