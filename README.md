@@ -12,4 +12,5 @@ Training data is taken from Comparat et al. 2020 (arXiv:2008.08404);
 it is retrievable here: https://www2011.mpe.mpg.de/~comparat/eROSITA_mock/ 
 
 For questions please contact: cosmo@caroline-heneka.de
+
 Credits for code development to: Jörn Bach
