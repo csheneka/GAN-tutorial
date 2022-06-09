@@ -10,4 +10,4 @@ dependencies:
     - tensorflow
     - requests
     - scikit-learn
-    - python3-opencv
+    - opencv
