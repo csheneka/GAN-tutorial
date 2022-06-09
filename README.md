@@ -4,7 +4,7 @@ Hands-on tutorial to get started with Generative Adversarial Networks (GANs)
 Goal is to train GANs to generate galaxy cluster images at X-ray wavelengths.
 
 Binder here:
-[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/csheneka/ML-for-Astro-tutorial](https://mybinder.org/v2/gh/csheneka/GAN-tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csheneka/GAN-tutorial/HEAD)
 
 Additional saved LSGAN model here: 
 
