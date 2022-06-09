@@ -13,4 +13,4 @@ it is retrievable here: https://www2011.mpe.mpg.de/~comparat/eROSITA_mock/
 
 For questions please contact: cosmo@caroline-heneka.de
 
-Credits for code development to: Jörn Bach
+Credits for code development: Jörn Bach, Caroline Heneka
